@@ -13,7 +13,7 @@
 - [Louis She](https://github.com/snakesch)
 - [Pu Kao (Paul)](https://github.com/isthatgopro)
 - [Bharati Jadhav](https://github.com/bharatij)
-- [Saolendra](https://github.com/sailepradh)
+- [Sailendra](https://github.com/sailepradh)
 - [Siyu Wang]
 - [Farhang Jaryani]
 - [Kirtan Dave]
